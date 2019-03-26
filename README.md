@@ -12,13 +12,12 @@ https://github.com/trustcoinmining/TCM-FMx-Dev/blob/master/xapp1171/k410tFMSubSy
 
 https://trustcoinmining.com/bbs/board.php?bo_table=fpgadev  [FPGA TechSupport Bulletin]
 
-
-
-**In case of 1st Buying, We have Promotion discount policy.
-$150 promotion for small sample buying. (~End of Feb)**
-
-FM2L Card + Jtag USB Platform Cable + Shipping = $574 - $150 = $424
 Please refer following price table.
+
+## You can order directly , email : info@trustfarm.net
+## Discord Channel :  https://discord.gg/7fQvmA
+
+https://discordapp.com/channels/439880012183896075/540241046068658185
 
 ---
 
