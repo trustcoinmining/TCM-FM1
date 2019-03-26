@@ -14,11 +14,6 @@ https://trustcoinmining.com/bbs/board.php?bo_table=fpgadev  [FPGA TechSupport Bu
 
 Please refer following price table.
 
-## You can order directly , email : info@trustfarm.net
-## Discord Channel :  https://discord.gg/7fQvmA
-
-https://discordapp.com/channels/439880012183896075/540241046068658185
-
 ---
 
 Supported Bitstream Algorithms 7th Feb/2019 : 
@@ -29,8 +24,11 @@ KeccakC / KeccakZP / 0xBTC
 KOREA : Own mall :  https://chaisomall.com <br>
 KOREA Ebay Gmarket mall :  http://item.gmarket.co.kr/Item?goodscode=1548906592 <br>
 TEL : 1566-9153 <br>
-email : info@trustfarm.net <br>
-telegram , wechat , kakaotalk : trustfarm <br>
+### You can order directly , email : info@trustfarm.net <br>
+### telegram , wechat , kakaotalk : trustfarm <br>
+### Discord Channel :  https://discord.gg/7fQvmA
+
+https://discordapp.com/channels/439880012183896075/540241046068658185
 
 TCM-FM2L Price  table	환율	1월 16일 오전 2:31 기준 , 부가세별도 (VAT Excluded)
 
