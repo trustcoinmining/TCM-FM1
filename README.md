@@ -14,6 +14,10 @@ https://trustcoinmining.com/bbs/board.php?bo_table=fpgadev  [FPGA TechSupport Bu
 
 Please refer following price table.
 
+### Tutorial Video
+
+https://youtu.be/MCTy_hJ7E_A
+
 ---
 
 Supported Bitstream Algorithms 7th Feb/2019 : 
