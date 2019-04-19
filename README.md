@@ -14,6 +14,21 @@ https://trustcoinmining.com/bbs/board.php?bo_table=fpgadev  [FPGA TechSupport Bu
 
 Please refer following price table.
 
+## Latest Developer Resource
+
+1. DDR3 Interface pre-synthesized bitstream and sources - migrated from xilinx ug586 
+https://github.com/trustcoinmining/FM1-DDR3MIG-ug586
+
+2. PCI-e tendem bootloader , PCI-e bitstream and Ubuntu18.04 Kernel Driver.
+Windows10 pci-e driver.
+ pre-synthesized bitstream and sources - migrated from xilinx pg054
+ 
+ https://github.com/trustcoinmining/FM2-Pcie-pg054
+
+3. PCI-e DMA bitstream and sources , Windows10/Ubuntu18.04 Kernel Driver and Sample Application.
+- migrated from xilinx pg195
+
+
 ### Tutorial Video for beginner
 
 https://youtu.be/MCTy_hJ7E_A
