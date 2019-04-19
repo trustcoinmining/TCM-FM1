@@ -28,6 +28,8 @@ Windows10 pci-e driver.
 3. PCI-e DMA bitstream and sources , Windows10/Ubuntu18.04 Kernel Driver and Sample Application.
 - migrated from xilinx pg195
 
+https://github.com/trustcoinmining/FMx-PG195-PCIe-DMA
+
 
 ### Tutorial Video for beginner
 
