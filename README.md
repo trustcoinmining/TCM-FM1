@@ -51,16 +51,6 @@ TEL : 1566-9153 <br>
 
 https://discordapp.com/channels/439880012183896075/540241046068658185
 
-TCM-FM2L Price  table	환율	1월 16일 오전 2:31 기준 , 부가세별도 (VAT Excluded)
-
-## Price Table (VAT Excluded)
-| MODEL   | UNITS  | UNIT Price(USD) | 개당가격(KRW) |
-|---	    |---	   |---	      |---	      |
-| TCM-FM2L| 1~6    | $499.0   | W 550,000 |
-| TCM-FM2L| 6~60   | $450.0  	| W 500,000 |
-| TCM-FM2L| 60~120 | $425.0  	| W 470,000 |
-| TCM-FM2L| 120~   | $399.0  	| W 440,000 |
-|---	|---	|---	|---	|
 
 
 # Payment Information #
