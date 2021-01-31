@@ -72,7 +72,7 @@ Bank Address : 135-95 97, Baekhyeon-ro, Bundang-gu, Seonnam-si, Gyeonggi-do
 
 [KRW/원화입금]
 
-KEB 하나은행 : 347-910015-51304 
+IBK 기업은행 : 487-041760-04-01
 
 예금주 : 트러스트팜모바일
 
